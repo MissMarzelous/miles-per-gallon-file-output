@@ -102,7 +102,7 @@ The original file had four bugs that prevented it from running:
 ```
 miles-per-gallon-file-output/
 ├── miles_per_gallon_file_output.py
-├── miles_per_gallon_file_output1
+├── miles_per_gallon_file_output1.txt
 ├── output.png
 ├── output2.png
 ├── README.md
