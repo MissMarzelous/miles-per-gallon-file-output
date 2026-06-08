@@ -54,8 +54,8 @@ Miles Per Gallon =       32.00
 
 ![Program Output](output.png)
 
-## Output Text File
-![Program Output](miles_per_gallon_file_output1.txt)
+## Screenshot of Output Text File
+![Program Output](output2.png)
 
 ---
 
