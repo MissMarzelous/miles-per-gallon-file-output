@@ -55,7 +55,7 @@ Miles Per Gallon =       32.00
 ![Program Output](output.png)
 
 ## Output Text File
-![Program Output](miles_per_gallon_file_output1)
+![Program Output](miles_per_gallon_file_output1.txt)
 
 ---
 
@@ -104,6 +104,7 @@ miles-per-gallon-file-output/
 ├── miles_per_gallon_file_output.py
 ├── miles_per_gallon_file_output1
 ├── output.png
+├── output2.png
 ├── README.md
 ├── LICENSE
 └── .gitignore
